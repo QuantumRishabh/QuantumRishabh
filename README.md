@@ -165,22 +165,6 @@ AI-assisted Software Development
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/QuantumRishabh">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumRishabh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Rishabh's GitHub Stats" />
-</a>
-
-<a href="https://github.com/QuantumRishabh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumRishabh&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in **interesting engineering problems, AI, distributed systems, and building scalable products**.
